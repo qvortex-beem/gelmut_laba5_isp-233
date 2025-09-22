@@ -74,3 +74,9 @@
 //    return n * Factorial(n - 1);
 //}
 //Console.WriteLine(Factorial(5));
+
+void Compare(int[] numbers1, int[] numbers2)
+{
+    int numbers1Sum = 0;
+    int numbers2Sum = 0;
+}
